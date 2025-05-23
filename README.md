@@ -40,7 +40,7 @@ The framework supports multiple segmentation models (traditional and lightweight
 
 ```bash
 git clone <repository-url>
-cd <repository>
+cd Seismic-Segmentation-Framework
 ```
 
 2. Create a conda environment using the provided `environment.yml`:
